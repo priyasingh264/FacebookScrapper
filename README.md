@@ -9,3 +9,6 @@ to automate the page and extract the results
 
 pip install openpyxl
 to extract input from excel file and store result back to excel file. (Reading and writing in excel file)
+
+# output
+to check the output in the excel file
