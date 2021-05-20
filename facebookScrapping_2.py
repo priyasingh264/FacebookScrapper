@@ -38,9 +38,9 @@ time.sleep(30)
 
 # Login to facebook
 driver.find_element_by_xpath("(//*[@class='m9osqain jq4qci2q a3bd9o3v'])[1]").click()
-driver.find_element_by_xpath("(//*[@class='m9osqain jq4qci2q a3bd9o3v'])[1]").send_keys("6266597180")
+driver.find_element_by_xpath("(//*[@class='m9osqain jq4qci2q a3bd9o3v'])[1]").send_keys("ENTER YOUR FB ID")
 driver.find_element_by_xpath("(//*[@class='m9osqain jq4qci2q a3bd9o3v'])[2]").click()
-driver.find_element_by_xpath("(//*[@class='m9osqain jq4qci2q a3bd9o3v'])[2]").send_keys("manjusingh")
+driver.find_element_by_xpath("(//*[@class='m9osqain jq4qci2q a3bd9o3v'])[2]").send_keys("ENETR YOUR PASSWORD")
 driver.find_element_by_xpath("(//*[@class='a8c37x1j ni8dbmo4 stjgntxs l9j0dhe7 ltmttdrg g0qnabr5'])[2]").click()
 time.sleep(30)
 
